@@ -7,3 +7,5 @@
 * https://en.wikipedia.org/wiki/Advanced_Encryption_Standard
 
 * http://www.moserware.com/2009/09/stick-figure-guide-to-advanced.html
+
+* https://developer-mac.tistory.com/59
