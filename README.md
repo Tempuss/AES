@@ -9,3 +9,5 @@
 * http://www.moserware.com/2009/09/stick-figure-guide-to-advanced.html
 
 * https://developer-mac.tistory.com/59
+
+* https://frontjang.info/entry/AES?category=337750
