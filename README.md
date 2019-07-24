@@ -11,3 +11,5 @@
 * https://developer-mac.tistory.com/59
 
 * https://frontjang.info/entry/AES?category=337750
+
+* https://kavaliro.com/wp-content/uploads/2014/03/AES.pdf
